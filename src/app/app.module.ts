@@ -28,7 +28,7 @@ import { SearchBarComponent } from './components/search-bar/search-bar.component
     GaugeModule.forRoot(),
     MatFormFieldModule,
     MatSelectModule,
-    MatTabsModule
+    MatTabsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
